@@ -122,5 +122,8 @@ a {
   }
  }
 
+ .member > img{
+  max-width: 100%;
+ }
 
  
