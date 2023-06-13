@@ -96,6 +96,7 @@ a {
 .team-members{
   display:flex;
   justify-content:center;
+  flex-wrap: wrap;
 }
 
 .member{
@@ -111,6 +112,7 @@ a {
 
 .member-pic{
   height: 200px;
+  max-width: 100%;
 }
 
 @media (max-width: 1000px){
@@ -122,8 +124,6 @@ a {
   }
  }
 
- .member > img{
-  max-width: 100%;
- }
+ 
 
  
