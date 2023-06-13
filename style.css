@@ -127,7 +127,6 @@ a {
  #aboutMochi {
   width: 600px;
   right: 10px;
-  top: 150px;
+  top: 130px;
+  border: rgb(238, 201, 34) ridge 10px;
  }
-
- 
